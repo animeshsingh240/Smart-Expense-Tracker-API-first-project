@@ -1,1 +1,1 @@
-# Smart-Expense-Tracker-API-first-project
+# Smart Expense Tracker API
